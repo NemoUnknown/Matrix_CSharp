@@ -1,0 +1,11 @@
+F:\Study\MVS\SP\HW\MatrixLibrary\MatrixLibrary\bin\Debug\net5.0\MatrixLibrary.deps.json
+F:\Study\MVS\SP\HW\MatrixLibrary\MatrixLibrary\bin\Debug\net5.0\MatrixLibrary.dll
+F:\Study\MVS\SP\HW\MatrixLibrary\MatrixLibrary\bin\Debug\net5.0\ref\MatrixLibrary.dll
+F:\Study\MVS\SP\HW\MatrixLibrary\MatrixLibrary\bin\Debug\net5.0\MatrixLibrary.pdb
+F:\Study\MVS\SP\HW\MatrixLibrary\MatrixLibrary\obj\Debug\net5.0\MatrixLibrary.GeneratedMSBuildEditorConfig.editorconfig
+F:\Study\MVS\SP\HW\MatrixLibrary\MatrixLibrary\obj\Debug\net5.0\MatrixLibrary.AssemblyInfoInputs.cache
+F:\Study\MVS\SP\HW\MatrixLibrary\MatrixLibrary\obj\Debug\net5.0\MatrixLibrary.AssemblyInfo.cs
+F:\Study\MVS\SP\HW\MatrixLibrary\MatrixLibrary\obj\Debug\net5.0\MatrixLibrary.csproj.CoreCompileInputs.cache
+F:\Study\MVS\SP\HW\MatrixLibrary\MatrixLibrary\obj\Debug\net5.0\MatrixLibrary.dll
+F:\Study\MVS\SP\HW\MatrixLibrary\MatrixLibrary\obj\Debug\net5.0\ref\MatrixLibrary.dll
+F:\Study\MVS\SP\HW\MatrixLibrary\MatrixLibrary\obj\Debug\net5.0\MatrixLibrary.pdb
